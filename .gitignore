@@ -2,3 +2,4 @@ tensorflow-classifier/images/
 tensorflow-classifier/images_all/
 intro/.ipynb_checkpoints/
 tensorflow-classifier/.ipynb_checkpoints/
+regression/kc_house_data.csv
