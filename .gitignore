@@ -5,4 +5,6 @@ tensorflow-classifier/.ipynb_checkpoints/
 regression/kc_house_data.csv
 slides/
 regression/.ipynb_checkpoints/
+flightDelay/FlightDelaysData.csv
+flightDelay/WeatherDataset.csv
 
