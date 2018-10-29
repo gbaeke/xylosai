@@ -7,4 +7,10 @@ slides/
 regression/.ipynb_checkpoints/
 flightDelay/FlightDelaysData.csv
 flightDelay/WeatherDataset.csv
+*desktop.ini
+flightDelay/
+flightDelay_/
+regression/FlightDelaysData_clean.csv
+regression/FlightDelaysData.csv
+regression/WeatherDataset.csv
 
