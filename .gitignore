@@ -13,4 +13,5 @@ flightDelay_/
 regression/FlightDelaysData_clean.csv
 regression/FlightDelaysData.csv
 regression/WeatherDataset.csv
+.ipynb_checkpoints
 
